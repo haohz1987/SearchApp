@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.22871376811594202" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.383" />
+        <entry key="app/src/main/res/drawable/bg_search_button.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/bg_search_button_enable.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/shape_login_button_bg_ececec_27.xml" value="0.2525" />
+        <entry key="app/src/main/res/drawable/shape_shopmall_flowlayout.xml" value="0.169" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_search.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_search_result.xml" value="0.18568840579710144" />
+        <entry key="app/src/main/res/layout/activity_splash.xml" value="0.17759838546922302" />
+        <entry key="app/src/main/res/layout/dialog_loading.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/holder_company.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/holder_search_tips.xml" value="0.22644927536231885" />
+        <entry key="app/src/main/res/layout/item_whole_search_flowlayout.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/view_pop_search_tip.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,28 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="AppBaseTheme"></style>
+
+
+
+    <style name="basic_core_BottomAnimation" parent="android:Animation">
+        <item name="android:windowEnterAnimation">@anim/basic_core_bottom_enter_anim</item>
+        <item name="android:windowExitAnimation">@anim/basic_core_bottom_exit_anim</item>
+    </style>
+
+    <style name="basic_core_RightAnimation" parent="android:Animation">
+        <item name="android:windowEnterAnimation">@anim/basic_core_right_enter_anim</item>
+        <item name="android:windowExitAnimation">@anim/basic_core_right_exit_anim</item>
+    </style>
+
+    <style name="basic_core_LeftAnimation" parent="android:Animation">
+        <item name="android:windowEnterAnimation">@anim/basic_core_left_enter_anim</item>
+        <item name="android:windowExitAnimation">@anim/basic_core_left_exit_anim</item>
+    </style>
+
+    <style name="basic_core_TopAnimation" parent="android:Animation">
+        <item name="android:windowEnterAnimation">@anim/basic_core_top_enter_anim</item>
+        <item name="android:windowExitAnimation">@anim/basic_core_top_exit_anim</item>
+    </style>
+
+
+</resources>
